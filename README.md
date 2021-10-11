@@ -6,10 +6,10 @@ A new Flutter project.
 
 <table>
   <tr>
-    <td><img src="https://res.cloudinary.com/dycxesufw/image/upload/v1632211647/bfvyoigrqogrvcxqomgg.jpg" width=300 height=480></td>
-    <td><img src="https://res.cloudinary.com/dycxesufw/image/upload/v1632211649/ddzmggawoilphxoqm4mq.jpg" width=300 height=480></td>
-    <td><img src="https://res.cloudinary.com/dycxesufw/image/upload/v1632211645/vocpy9qbxm8mvwzwx46o.jpg" width=300 height=480></td>
-    <td><img src="https://res.cloudinary.com/dycxesufw/image/upload/v1632211642/f1mt53hxwhwsxwqhsnv3.jpg" width=300 height=480></td>
+    <td><img src="https://res.cloudinary.com/dycxesufw/image/upload/v1632211647/bfvyoigrqogrvcxqomgg.jpg" width=400 height=480></td>
+    <td><img src="https://res.cloudinary.com/dycxesufw/image/upload/v1632211649/ddzmggawoilphxoqm4mq.jpg" width=400 height=480></td>
+    <td><img src="https://res.cloudinary.com/dycxesufw/image/upload/v1632211645/vocpy9qbxm8mvwzwx46o.jpg" width=400 height=480></td>
+    <td><img src="https://res.cloudinary.com/dycxesufw/image/upload/v1632211642/f1mt53hxwhwsxwqhsnv3.jpg" width=400 height=480></td>
   </tr>
  </table>
  
