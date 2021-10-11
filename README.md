@@ -3,11 +3,16 @@
 A new Flutter project.
 
 ## Getting Started
-![alt text](https://res.cloudinary.com/dycxesufw/image/upload/v1632211647/bfvyoigrqogrvcxqomgg.jpg)
-![alt text](https://res.cloudinary.com/dycxesufw/image/upload/v1632211649/ddzmggawoilphxoqm4mq.jpg)
-![alt text](https://res.cloudinary.com/dycxesufw/image/upload/v1632211645/vocpy9qbxm8mvwzwx46o.jpg)
-![alt text](https://res.cloudinary.com/dycxesufw/image/upload/v1632211642/f1mt53hxwhwsxwqhsnv3.jpg)
 
+<table>
+  <tr>
+    <td><img src="https://res.cloudinary.com/dycxesufw/image/upload/v1632211647/bfvyoigrqogrvcxqomgg.jpg" width=300 height=480></td>
+    <td><img src="https://res.cloudinary.com/dycxesufw/image/upload/v1632211649/ddzmggawoilphxoqm4mq.jpg" width=300 height=480></td>
+    <td><img src="https://res.cloudinary.com/dycxesufw/image/upload/v1632211645/vocpy9qbxm8mvwzwx46o.jpg" width=300 height=480></td>
+    <td><img src="https://res.cloudinary.com/dycxesufw/image/upload/v1632211642/f1mt53hxwhwsxwqhsnv3.jpg" width=300 height=480></td>
+  </tr>
+ </table>
+ 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
